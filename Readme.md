@@ -1,0 +1,1 @@
+Questões do Assesment da disciplina Lógica, Computação e Algoritmos, do Instituto infnet.
